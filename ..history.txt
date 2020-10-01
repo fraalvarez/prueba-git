@@ -1,0 +1,149 @@
+    1  cd Desktop/Automatizacion_BCs_SerpAPI/
+    2  git clone https://github.com/serpapi/google_search_results_java.git
+    3  gradle build
+    4  exit
+    5  cd Desktop/Automatizacion_BCs_SerpAPI/PDF/
+    6  cd Desktop/Automatizacion_BCs_SerpAPI/
+    7      git clone https://github.com/radkovo/Pdf2Dom.git
+    8  git clone https://github.com/radkovo/Pdf2Dom.git
+    9  exit
+   10  ls
+   11  pwd
+   12  ls -a
+   13  ls -l
+   14  git --version
+   15  git config --global user.name "Pkito";
+   16  git config --global user.email fco.alvarez.11@gmail.com
+   17  git config --global user.name "PkitoA";
+   18  git config --global user.name "fraalvarez";
+   19  python --version
+   20  exit
+   21  winpty mysql -u root -p
+   22  $ cd ~
+   23  $ echo 'export PATH=/c/Program\ Files/MySQL/MySQL\ Server\ 8.0/bin/:$PATH' >> .bash_profile
+   24  exit
+   25  winpty mysql -u root -p
+   26  jupyter notebook
+   27  git clone https://github.com/fraalvarez/super-duper-robot.git
+   28  pwd
+   29  cd super-duper-robot/
+   30  ls ./
+   31  ls ../
+   32  git add .
+   33  git status
+   34  git commit -m "Adding robot.md to the repository."
+   35  git push
+   36  git checkout -b newfeature
+   37  git checkout master
+   38  git branch
+   39  git branch -a
+   40  git pull
+   41  git push
+   42  $ git clone https://github.com/fraalvarez/bcn-feb-2019-prework.git
+   43  git clone https://github.com/fraalvarez/bcn-feb-2019-prework.git
+   44  cd bcn-feb-2019-prework/
+   45  touch robot.md
+   46  git add robot.md
+   47  git commit -m "adding robot.md to the repository"
+   48  git push origin master
+   49  git remote
+   50  cd ..
+   51  cd..
+   52  cd ..
+   53  git remote -v
+   54  cd super-duper-robot/
+   55  git remote -v
+   56  $ git remote add personal https://github.com/ironhack/personal-data.git
+   57  $ git remote -v
+   58  origin  https://github.com/ironhack/data-labs.git (fetch)
+   59  origin  https://github.com/ironhack/data-labs.git (push)
+   60  personal    https://github.com/ironhack/personal-data.git (fetch)
+   61  personal    https://github.com/ironhack/personal-data.git (push)
+   62  git remote add personal https://github.com/ironhack/personal-data.git
+   63  git fetch origin
+   64  git pull
+   65  git push origin master
+   66  git remote remove personal
+   67  git remote
+   68  python
+   69  python3
+   70  python
+   71  git clone https://github.com/fraalvarez/data-prework.git
+   72  jupyter notebook
+   73  cd data-prework/
+   74  git push
+   75  git commit -m "adding code to the pre-work exercises"
+   76  git commit -a
+   77  git commit -a
+   78  git push
+   79  git commit -a
+   80  ls
+   81  pwd
+   82  cd data-prework/
+   83  cd 2.-Statistics/
+   84  git commit -a
+   85  git push
+   86  git stauts
+   87  git status
+   88  git add .
+   89  git branch
+   90  git push
+   91  git status
+   92  cd ..
+   93  git status
+   94  git commit -a
+   95  git log
+   96  git push
+   97  jupyter notebook
+   98  jupyter-notebook
+   99  conda --version
+  100  jupyter notebook
+  101  python -m jupyter
+  102  py -m notebook
+  103  which python
+  104  pwd
+  105  cd Documents/
+  106  cd GitHub/
+  107  pwd
+  108  ls
+  109  git clone https://github.com/fraalvarez/prueba-git.git
+  110  cd prueba-git/
+  111  jupyter notebook
+  112  git status
+  113  git add .
+  114  git status
+  115  git commit -m "Mi primer hola mundo"
+  116  git push
+  117  git log
+  118  git branch
+  119  git checkout -b rama-2
+  120  git branch
+  121  git checkout master
+  122  git add .
+  123  git status
+  124  git commit -m "el nuevo archivo del hurón"
+  125  git push --set-upstream origin rama-2
+  126  git push
+  127  git checkout rama-2
+  128  git status
+  129  git status
+  130  git push
+  131  git add .
+  132  git commit -m "el nuevo archivo del hurón"
+  133  git push
+  134  git checkout rama-2
+  135  pwd
+  136  git checkout master
+  137  ls
+  138  git add .
+  139  git status
+  140  git push
+  141* 
+  142  git checkout master
+  143  git checkout rama-2
+  144  git merge master
+  145  git merge master
+  146  ls
+  147  cls
+  148  clr
+  149  history >> ..\history.txt
